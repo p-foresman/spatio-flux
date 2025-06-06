@@ -4,4 +4,9 @@ spatio_flux.egg-info/
 __pycache__/
 out/
 **/out/
+<<<<<<< HEAD
 .venv/
+=======
+
+profile/
+>>>>>>> upstream/main
